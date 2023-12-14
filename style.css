@@ -1,0 +1,76 @@
+*{
+    color:white;
+}
+.head{
+    position: relative;
+    top:0px;
+    padding:20px;
+    background-color: rgb(155, 33, 33);
+}
+.menu{
+    position: relative;
+    top:2px;
+    padding:10px;
+    background-color: rgb(143, 0, 0);
+}
+.foot{
+    padding:10px;
+    position: relative;
+    bottom:-10px;
+    background-color: rgb(143, 0, 0);
+}
+.levoa{
+    width:15%;
+    position: relative;
+    top:8px;
+    height: 100px;
+    float: left;
+    background-color: rgb(196, 45, 45);
+}
+.levob{
+    
+    width:15%;
+    height: 250px;
+    position: relative;
+    top:100px;
+    float: left;
+    
+    background-color: rgb(196, 45, 45);
+}
+.main{
+    top:-10px;
+    padding-bottom: 200px;
+    position: relative;
+    width:70%;
+    left:18%;
+    text-align: left;
+    background-color: rgb(196, 45, 45);
+}
+.secta{
+    text-align: left;
+    width:80%;
+    position: relative;
+    top:10px;
+    left:7%;
+    height: 120px;
+    background-color: rgb(228, 54, 54);
+}
+.sectb{
+    text-align: left;
+    width:80%;
+    padding-right: 0px;
+    padding-left: 0px;
+    position: relative;
+    height: 120px;
+    top:20px;
+    left:7%;
+    background-color: rgb(228, 54, 54);
+}
+.pravo{
+    width:10%;
+    height: 400px;
+    position: relative;
+    top:-10px;
+    float:right;
+    background-color: rgb(196, 45, 45);
+}
